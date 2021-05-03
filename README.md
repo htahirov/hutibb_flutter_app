@@ -1,6 +1,6 @@
 # hutibb
 
-This app contains emergency help for patients, medicine prescriptions (just to improve my practical skills).
+This app contains emergency help for patients, medicine prescriptions (just to improve my practical skills). I found medical information from my Turkish friends. 
 
 <table>
   <tr>
